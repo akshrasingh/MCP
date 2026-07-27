@@ -143,15 +143,4 @@ and exercises `MCPClient` through the actual MCP wire protocol (not just a
 direct Python import), to confirm the client layer works independently of the
 agent.
 
-## Project status
 
-| Phase | Status |
-|---|---|
-| 0 — Environment & config | ✅ Done |
-| 1 — Weather MCP server | ✅ Done |
-| 2 — MCP client layer | ✅ Done |
-| 3 — ReAct agent core | ✅ Done |
-| 4 — Remaining MCP servers built | ✅ Built, being enabled/tested one at a time |
-| 5 — Itinerary composer | ✅ Built |
-| 6 — Session management (multi-turn) | ⬜ Not started |
-| 7 — Full test suite + polish | ⬜ Not started |
